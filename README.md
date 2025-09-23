@@ -24,8 +24,8 @@
 - 💬 [**Gappotaran Chat App**](#) – Real-time chat application using Socket.io & MERN stack  
 - 🍔 [**Food Delivery Website**](#) – End-to-end food ordering platform with authentication & cart system  
 - 🎬 [**Content Streaming Website**](#) – Stream videos/content with user accounts & MongoDB backend  
-- 📝 [**NoteForge Notes App**](#) – A productivity app to create, edit & manage notes securely  
-- 🌐 [**Personal Portfolio Website**](#) – Showcasing my work, skills, and contact info  
+- 📝 [**NoteForge Notes App**](https://noteforge-lilac.vercel.app/) – A productivity app to create, edit & manage notes securely  
+- 🌐 [**Personal Portfolio Website**](https://rizwanbalochportfolio.netlify.app/) – Showcasing my work, skills, and contact info  
 
 ---
 
@@ -39,7 +39,7 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/therizwanbaloch)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/therizwanbaloch)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rizwanbaloch@example.com)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:comraderizwanbaloch@gmail.com)  
 📱 **Phone/WhatsApp:** +92 312 7130457  
 
 ---
