@@ -1,6 +1,6 @@
 # Hi, I'm Rizwan Baloch  
 
-💻 **Full Stack Web Developer** |**MERN STACK** | **REACTJS** | **TAILWINDCSS** | **NODEJS** | **EXPRESSJS** | **MONGODB** | **GEN AI ASPIRANT** | **Building modern, scalable, and user-friendly web applications**
+**Full Stack Web Developer** | MERN STACK |  ReactJS | TailwindCSS | NodeJS | ExpressJS | MongoDB | GEN-AI Aspirant | Building modern, scalable, and user-friendly web applications
 
 ---
 
@@ -40,7 +40,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/therizwanbaloch)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/therizwanbaloch)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:comraderizwanbaloch@gmail.com)  
-[![WhatsApp](https://wa.me/923127130457?text=Hello%20Rizwan%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-brightgreen?logo=whatsapp&logoColor=white)](https://wa.me/923127130457?text=Hello%20Rizwan%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!)
+
 
 ---
-✨ _“Code, Learn, Build, Repeat.”_
+ _“Code, Learn, Build, Repeat.”_
