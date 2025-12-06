@@ -1,47 +1,72 @@
-# Hi, I'm Rizwan Baloch  
+<h1 align="center">Hi 👋, I'm Rizwan Baloch</h1>
+<h3 align="center">A passionate Full-Stack & MERN Developer from Pakistan</h3>
 
-**Full Stack Web Developer** | MERN STACK |  ReactJS | TailwindCSS | NodeJS | ExpressJS | MongoDB | GEN-AI Aspirant | Building modern, scalable, and user-friendly web applications
-
----
-
-## About Me
-- Exploring advanced **React.js, Next.js, and Python integrations**  
-- Skilled in **MongoDB, Express.js, React.js, Node.js, TailwindCSS, Python**  
-- Passionate about creating **real-world projects** that solve problems  
-- Goal: To grow as a full-stack developer and contribute to impactful projects  
+I’m a detail-oriented and creative developer who loves transforming ideas into fast, scalable, and user-friendly products.  
+Skilled in **JavaScript**, **TypeScript**, and the full **MERN Stack**, I build modern UIs, powerful backend APIs, and seamless digital experiences.
 
 ---
 
-## Tech Stack
-- **Frontend:** React.js, Next.js, TailwindCSS, Bootstrap, HTML5, CSS3  
-- **Backend:** Node.js, Express.js, Python  
-- **Database:** MongoDB  
-- **Other Tools:** Git, GitHub, Postman, VS Code  
+### 🚀 MERN Stack Developer Summary
+Highly skilled in designing dynamic frontends and building secure backend architectures using **MongoDB, Express.js, React, and Node.js**.  
+I focus on performance, clean code, and delivering real-world applications that solve real problems.
 
 ---
 
-## Featured Projects
--  [**Gappotaran Chat App**](#) – Real-time chat application using Socket.io & MERN stack  
--  [**Food Delivery Website**](#) – End-to-end food ordering platform with authentication & cart system  
--  [**Content Streaming Website**](#) – Stream videos/content with user accounts & MongoDB backend  
--  [**NoteForge Notes App**](https://noteforge-lilac.vercel.app/) – A productivity app to create, edit & manage notes securely  
--  [**Personal Portfolio Website**](https://rizwanbalochportfolio.netlify.app/) – Showcasing my work, skills, and contact info  
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://twitter.com/therizwanbaloch" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/therizwanbaloch" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://fb.com/therizwanbaluch" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
+<a href="https://instagram.com/therizwanbaloch" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
+</p>
 
 ---
 
-## GitHub Stats
-![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=therizwanbaloch&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therizwanbaloch&layout=compact&theme=tokyonight)  
+## 🧰 Languages & Tools
+<p align="left">
+<a href="https://javascript.info" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a>
+</p>
 
 ---
 
-##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/therizwanbaloch)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/therizwanbaloch)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:comraderizwanbaloch@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-brightgreen?logo=whatsapp&logoColor=white)](https://wa.me/923127130457?text=Hello%20Rizwan%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!)
+## 📦 Featured Projects
 
+### 🔹 **NoteForge – Smart Note-Taking App**
+A smooth and fast note-taking application featuring categories, search, and persistent storage.
+
+### 🔹 **GAP-O-TARAN – Real-Time Chat App**
+A secure and responsive messaging application with live chat functionality.
+
+### 🔹 **PKR-Spot – Currency & Crypto Converter**
+Convert foreign currencies and crypto assets to PKR with updated exchange rates.
+
+### 🔹 **Personal Portfolio (React + EmailJS)**
+A responsive and modern portfolio with animations and a working contact form.
 
 ---
- _“Code, Learn, Build, Repeat.”_
+
+## 📊 GitHub Stats (Optional – Add if you want)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=therizwanbaloch&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=therizwanbaloch&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+If you want, I can also add:
+
+✅ Animated typing banner  
+✅ Dark/light mode auto switch  
+✅ Project demo GIFs  
+✅ Skill badges  
+✅ Visitors counter  
