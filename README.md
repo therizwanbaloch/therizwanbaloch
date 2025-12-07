@@ -1,76 +1,79 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1A44&height=110&section=header&text=" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1A44&height=110&section=header" alt="header"/>
 </p>
 
 <h1 align="center">👋 Hey — I'm <strong>Rizwan Baloch</strong></h1>
 <h3 align="center">Full-Stack Developer • Bahawalpur, Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/therizwanbaloch" aria-label="LinkedIn">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
-  <a href="https://github.com/therizwanbaloch" aria-label="GitHub">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </a>
-  <a href="mailto:rizwanjanbaloch7@gmail.com" aria-label="Email">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
-  </a>
+  📍 Bahawalpur, Pakistan &nbsp;|&nbsp; 📱 +92312 7130457 &nbsp;|&nbsp; ✉️ rizwanjanbaloch7@gmail.com <br>
+  <a href="https://www.linkedin.com/in/therizwanbaloch">in/therizwanbaloch</a> &nbsp;|&nbsp; <a href="https://github.com/therizwanbaloch">therizwanbaloch</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-```yaml
-name: "M. Rizwan Baloch"
-role: "Full-Stack Developer"
-location: "Bahawalpur, Pakistan"
+## 📝 PROFESSIONAL SUMMARY
+Passionate about building high-quality web applications through modern tech, clean design, and efficient code. An experienced MERN stack developer skilled in MongoDB, Express.js, React.js, Node.js, Redux Toolkit, Context API, and TailwindCSS. Looking to contribute as a frontend or full-stack developer in innovative tech environments.
 
-focus:
-  - Backend Engineering
-  - Full-Stack Web Products
-  - High-Performance REST APIs
+---
 
-currently_learning:
-  - System Design & Scalable Architecture
-  - TypeScript
-  - DevOps (CI/CD, Docker)
-  - React Native
+## 💼 EXPERIENCE / PROJECTS
 
-projects:
-  - PKRSpot:
-      description: >
-        Led the end-to-end development of a production-grade currency exchange
-        platform. Built a high-performance MERN architecture with automated
-        rate synchronization, scalable API workflows, and an optimized data
-        pipeline capable of handling rapid market updates with minimal latency.
-      techstack: "MongoDB, Express, React, Node.js, Tailwind"
+### PKRSPOT — Self-Project (October 2025)
+- Built PKRspot, a currency exchange platform trusted by users for seamless conversion of foreign currencies to local PKR.
+- Developed PKRspot as a personal income source while still a student. Successfully implemented a fully functional application with secure transactions and responsive design.
+- Collaborated with frontend and backend workflows to engineer scalable exchange algorithms resulting in smooth real-time currency conversion for hundreds of users simultaneously.
+- Added new features in response to user feedback and market needs: transaction history, analytics dashboard, automated currency rates updates.
+- 700+ active users; 1650+ simulated transactions; full MERN stack integration; real-time exchange functionality; scalable design.
 
-  - Gap-o-Taran:
-      description: >
-        Architected and engineered a real-time messaging system with multi-room
-        channels, presence detection, and instant event broadcasting. Focused
-        on stability, real-time state management, and an intuitive communication
-        experience across all devices.
-      techstack: "React, Node.js, WebSocket, Tailwind"
+### GAP-O-TARAN — Self-Project (September 2025)
+- Developed a real-time chat application using MERN stack, enabling multi-room conversations, private messaging, and online/offline user status.
+- Led implementation of WebSocket-based messaging, optimizing speed and ensuring reliable real-time communication across multiple users.
+- Designed and integrated a dynamic frontend using React.js, Context API, and Tailwind CSS, enhancing UX and cross-device functionality.
 
-  - NoteForge:
-      description: >
-        Designed a secure and efficient note-management platform featuring
-        fast CRUD operations, JWT-based authentication, and highly optimized
-        MongoDB queries. Built for reliability and a smooth user workflow.
-      techstack: "MERN Stack"
+### NOTEFORGE — Self-Project (September 2025)
+- Designed and implemented a note-taking application using MERN stack with secure authentication and dynamic CRUD features.
+- Integrated responsive frontend features using React.js, Context API, and Tailwind CSS for improved usability across devices.
+- Managed backend database operations with MongoDB and Express.js, optimizing data storage, retrieval speed, and consistency for concurrent users.
 
-  - Personal Portfolio:
-      description: >
-        Developed a clean, modern, and fully responsive personal portfolio with
-        optimized loading performance, modular components, and smooth UI/UX
-        animations to highlight professional full-stack capabilities.
-      techstack: "React, Tailwind"
+### PORTFOLIO WEBSITE — Self-Project (August 2025)
+- Developed a responsive React.js-based portfolio website showcasing multiple projects and professional experience.
+- Integrated EmailJS for seamless contact form submissions and real-time message delivery.
+- Ensured cross-device compatibility and optimized load performance.
 
-goals_2026:
-  - Build 10+ production-ready full-stack applications
-  - Advance backend & system architecture mastery
-  - Deepen expertise in React Native & DevOps practices
-🚀 Tools & Technologies
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="45" height="45"/> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1A44&height=110&section=footer" /> </p> ```
+---
+
+## 🛠 Tools & Technologies
+<div style="background-color: #ffffff; padding: 20px; border-radius: 12px; margin-top: 20px;">
+  <p align="center">These are some of the main tools and technologies I have learned and used:</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center; margin-top: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="50" height="50"/>
+  </div>
+</div>
+
+---
+
+## 🎓 EDUCATION
+**Bachelor of Science in Software Engineering**  
+The Islamiya University of Bahawalpur, Pakistan • 2024–2028
+
+---
+
+## 💡 SKILLS
+**Soft Skills:** Team Collaboration, Problem Solving, Agile Development, Project Management, Communication  
+**Front End:** HTML, CSS, JavaScript, React.js, Context API, Redux Toolkit, Tailwind CSS  
+**Back End:** Node.js, Express.js, RestAPIs  
+**Tools / Platforms:** Git & GitHub, VS Code, Postman  
+**Fields of Interest:** Full Stack Web Development, Open-Source Projects, Startup Tech Solutions
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
