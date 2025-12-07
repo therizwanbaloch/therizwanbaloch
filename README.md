@@ -2,43 +2,47 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=110&section=header" alt="header"/>
 </p>
 
-<h1 align="center">👋 Hey — I'm <strong>Rizwan Baloch</strong></h1>
+<h1 align="center"> Hey 👋 — I'm <strong>Rizwan Baloch</strong></h1>
 <h3 align="center">Full-Stack Developer • Bahawalpur, Pakistan 🇵🇰</h3>
 
 <p align="center">
-  📍 Bahawalpur, Pakistan &nbsp;|&nbsp; 📱 +92312 7130457 &nbsp;|&nbsp; ✉️ rizwanjanbaloch7@gmail.com <br>
+  📍 Bahawalpur, Pakistan &nbsp;|&nbsp; 📱 +92312 7130457 &nbsp;|&nbsp; ✉️ comraderizwanbaloch@gmail.com <br>
   <a href="https://www.linkedin.com/in/therizwanbaloch">in/therizwanbaloch</a>
 </p>
 
 ---
 
-## 📝 PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 Passionate about building high-quality web applications through modern tech, clean design, and efficient code. Experienced MERN stack developer skilled in MongoDB, Express.js, React.js, Node.js, Redux Toolkit, Context API, and TailwindCSS. Looking to contribute as a frontend or full-stack developer in innovative tech environments.
 
 ---
 
-## 💼 EXPERIENCE / PROJECTS
+## EXPERIENCE / PROJECTS
 
 ### PKRSPOT — Self-Project (October 2025)
 - Currency exchange platform with secure transactions and responsive design.
 - Managed full MERN stack integration and real-time exchange functionality.  
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, TailwindCSS
+<hr>
 
 ### GAP-O-TARAN — Self-Project (September 2025)
 - Real-time chat app with multi-room messaging and online/offline status.  
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, TailwindCSS, WebSocket
+<hr>
 
 ### NOTEFORGE — Self-Project (September 2025)
 - Note-taking app with secure authentication and dynamic CRUD features.  
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, TailwindCSS
+<hr>
 
 ### PORTFOLIO WEBSITE — Self-Project (August 2025)
 - Responsive portfolio showcasing projects and professional experience.  
 **Tech Stack:** React.js, TailwindCSS, EmailJS
+<hr>
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 <div style="background-color: #ffffff; padding: 20px; border-radius: 12px; margin-top: 20px;">
   <p align="center">These are some of the main tools and technologies I have learned and used:</p>
   <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center; margin-top: 15px;">
@@ -55,19 +59,6 @@ Passionate about building high-quality web applications through modern tech, cle
 </div>
 
 ---
-
-## 🎓 EDUCATION
-**Bachelor of Science in Software Engineering**  
-The Islamiya University of Bahawalpur, Pakistan • 2024–2028
-
----
-
-## 💡 SKILLS
-**Soft Skills:** Team Collaboration, Problem Solving, Agile Development, Project Management, Communication  
-**Front End:** HTML, CSS, JavaScript, React.js, Context API, Redux Toolkit, Tailwind CSS  
-**Back End:** Node.js, Express.js, RestAPIs  
-**Tools / Platforms:** Git & GitHub, VS Code, Postman  
-**Fields of Interest:** Full Stack Web Development, Open-Source Projects, Startup Tech Solutions
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=100&section=footer"/>
