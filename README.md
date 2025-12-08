@@ -1,74 +1,70 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=110&section=header" alt="header"/>
-</p>
-
 <h1 align="center"><strong>Rizwan Baloch</strong></h1>
-<h3 align="center">Full-Stack Developer • Bahawalpur, Pakistan</h3>
+<h3 align="center">Full-Stack Developer • Based in Pakistan</h3>
 
-<p align="center">
-  Bahawalpur, Pakistan &nbsp;|&nbsp;  
-  <a href="https://wa.me/923127130457" target="_blank">+92 312 7130457</a> &nbsp;|&nbsp;  
-  <a href="mailto:comraderizwanbaloch@gmail.com">comraderizwanbaloch@gmail.com</a> <br>
-  <a href="https://www.linkedin.com/in/therizwanbaloch" target="_blank">in/therizwanbaloch</a>
+---
+
+## 🧑‍💻 About Me
+<ul>
+  <li>Full-Stack Developer delivering modern and scalable solutions.</li>
+  <li>Software Engineering student working with industry-level standards.</li>
+  <li>Aspiring Backend Engineer & DevOps Engineer.</li>
+  <li>Powered by clean architecture, performance, and automation-driven development.</li>
+</ul>
+
+---
+
+## 🚀 Tech Stack
+### **Main Expertise**
+- **MERN (MongoDB, Express.js, React.js, Node.js)**
+- **Basic C++**
+- **Python**
+- **TailwindCSS**
+- **REST APIs**
+- **Frontend UI/UX**
+- **Backend API Architecture**
+
+---
+
+## 🌐 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" height="40"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white" height="40"/>
 </p>
 
 ---
 
-## PROFESSIONAL SUMMARY
-Experienced Full-Stack Developer passionate about delivering high-quality, scalable web applications. Skilled in MERN stack (MongoDB, Express.js, React.js, Node.js), Redux Toolkit, Context API, and TailwindCSS. Proven track record of building robust systems, optimized user experiences, and maintainable codebases. Committed to contributing as a senior-level frontend or full-stack engineer in innovative tech environments.
+## 🛠️ Tools & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?logo=react&logoColor=%2361DAFB" height="40"/>
+  <img src="https://img.shields.io/badge/Node.js-233?logo=node.js&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" height="40"/>
+</p>
 
 ---
 
-## EXPERIENCE / PROJECTS
-
-### PKRSPOT <sub>(Self-Project | October 2025)</sub>
-- Designed and implemented a full-featured currency exchange platform delivering fast, secure, and accurate foreign-to-local currency conversion.  
-- Engineered scalable backend algorithms for real-time exchange rates supporting hundreds of concurrent users.  
-- Developed a responsive, user-centric interface ensuring seamless experience across devices.  
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, TailwindCSS
-<hr>
-
-### GAP-O-TARAN <sub>(Self-Project | September 2025)</sub>
-- Built a high-performance real-time chat system with multi-room messaging, private conversations, and robust online/offline status management.  
-- Optimized WebSocket implementation for rapid and reliable message delivery under heavy concurrent load.  
-- Developed an intuitive, dynamic frontend delivering smooth cross-device communication and enhanced user engagement.  
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, TailwindCSS, WebSocket
-<hr>
-
-### NOTEFORGE <sub>(Self-Project | September 2025)</sub>
-- Architected and implemented a secure note-taking platform with authentication, dynamic CRUD operations, and responsive UI.  
-- Optimized backend with MongoDB and Express.js for high-speed retrieval and data consistency under simultaneous usage.  
-- Enhanced usability and accessibility through well-structured frontend using React.js, Context API, and TailwindCSS.  
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, TailwindCSS
-<hr>
-
-### PORTFOLIO WEBSITE <sub>(Self-Project | August 2025)</sub>
-- Developed a professional, responsive portfolio showcasing projects and expertise, highlighting engineering best practices.  
-- Integrated EmailJS for seamless contact forms and real-time message handling, optimizing frontend state management.  
-- Ensured fast loading, cross-device compatibility, and modern interface for client and recruiter engagement.  
-**Tech Stack:** React.js, TailwindCSS, EmailJS
-<hr>
-
----
-
-## Tools & Technologies
-<div style="background-color: #ffffff; padding: 20px; border-radius: 12px; margin-top: 20px;">
-  <p align="center">Main tools and technologies I have mastered and frequently use:</p>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center; margin-top: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" alt="TailwindCSS" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="60" height="60"/>
-  </div>
-</div>
-
----
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=100&section=footer"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=therizwanbaloch&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
+</p>
+
+
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://rizwanbalochportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/therizwanbaloch" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/therizwanbaloch" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
