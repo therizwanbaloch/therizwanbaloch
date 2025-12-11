@@ -48,12 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=therizwanbaloch&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
-</p>
-
-
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://rizwanbalochportfolio.netlify.app" target="_blank">
