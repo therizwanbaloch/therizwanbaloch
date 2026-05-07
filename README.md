@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Rizwan Baloch</strong></h1>
-<h3 align="center">Full-Stack Developer • Based in Pakistan</h3>
+<h3 align="center">Full-Stack Web & Mobile Architect | Web Operations Lead at Aware2Act.youth</h3>
 
 ---
 
@@ -19,6 +19,7 @@
 - **Basic C++**
 - **Python**
 - **TailwindCSS**
+- **PostgreSQL**
 - **REST APIs**
 - **Frontend UI/UX**
 - **Backend API Architecture**
